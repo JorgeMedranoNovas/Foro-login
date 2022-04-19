@@ -2,13 +2,10 @@
 function SectionApp(){
 
     return(
-
         <>
-        
-        <div id = "Container-SectionApp" className="container">
-        
+        <div id = "Container-SectionApp" className="container">        
         <div className="header">
-            <h1 className="title">Contilliando</h1>
+            <h1 className="title">Observando</h1>
             <div className="Options">
                 <h1 className="NameUser" id="NameUser">.</h1>
             <button type="button" id="ExitOption" className="btn-Options button"><span className="icon-exit"></span> Salir</button>
@@ -16,7 +13,6 @@ function SectionApp(){
                 <button type="button" id="RegistrarseOption" className="btn-Options button"><span className="icon-users"></span>Registrarse</button>
             </div>
         </div>
-
         <div className="section">
             <div id="AddArea" className="Add-Area">
                 <div id="PhoneAdd" className="Phone-Add"><h1 id="InitialsUserAdd">.</h1></div>
@@ -28,16 +24,13 @@ function SectionApp(){
             <div id = "Get-Area" className="Get-Area">
                 <div id="IntroGetSection" className="Get-Messager-Section">
                 <div id="PhoneGet" className="Get-Messager-Phone">CO</div>
-                <p className="Get-Messager-Text"><h3 className="Get-Messager-Name">Cotillando_Oficial</h3>Hola a todos y todas!, sean bienvenidos a su foro interactivo <strong>Contillando</strong>,aqui podran interractuar con sus demás compañeros, compartir ideas e opiniones sobre cualquier tema que gusten. </p>
+                <p className="Get-Messager-Text"><h3 className="Get-Messager-Name">Observando_Oficial</h3>Hola a todos y todas!, sean bienvenidos a su foro interactivo <strong>Contillando</strong>,aqui podran interractuar con sus demás compañeros, compartir ideas e opiniones sobre cualquier tema que gusten. </p>
                 </div>
             </div>
         </div>
-
         <div id="Sub-Container-SectionApp" className="sub-container"/>
         <div id="alertUserCreated" className="alertUserCreated"><span className="icon-checkmark Resalt"></span>El Usuario Fue Creado Correctamente</div>
-
-        </div>
-        
+        </div>        
         </>
     )
 }
