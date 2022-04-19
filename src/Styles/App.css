@@ -4,7 +4,7 @@
 
   padding: 0;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body{
@@ -25,8 +25,14 @@ span{
 
 .button{
 
-    background: rgb(62, 62, 70);
-
+  margin: 1rem 0rem;
+  background-color: dodgerblue;
+  border: 0;
+  outline: 0;
+  height: 3rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: aliceblue;
     justify-content: center;
 
     align-items: center;
