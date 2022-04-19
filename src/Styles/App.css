@@ -72,17 +72,12 @@ span{
 
 .title{
 
-    margin-left: 60px;
-
-    margin-top: 20px;
-
-    font-family: cursive;
-
-    font-size: 40px;
-
-    color: rgb(226, 123, 123);
+  margin-left: 458px;
+  margin-top: 20px;
+  font-family: cursive;
+  font-size: 40px;
+  color: rgb(226, 123, 123);
 }
-
 .Options{
 
   width: 75%;
@@ -126,19 +121,12 @@ span{
 
 .Add-Area{
 
-    width: 30%;
-
-    height: 90%;
-
-    background: white;
-
-    box-shadow: 0 0 10px black;
-
-   flex-direction: column;
-
-   align-items: center;
-
-
+  width: 27%;
+  height: 84%;
+  background: #e54444;
+  box-shadow: 0 0 10px black;
+  flex-direction: column;
+  align-items: center;
 }
 
 .Phone-Add{
@@ -316,10 +304,8 @@ background: rgb(12, 12, 138);
 
 .AddSectionblock{
 
-  width: 30%;
-
-  height: 76.5%;
-
+  width:  26%;
+  height: 71.5%;
     background: black;
 
     opacity: 0.9;

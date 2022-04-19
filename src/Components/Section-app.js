@@ -5,7 +5,7 @@ function SectionApp(){
         <>
         <div id = "Container-SectionApp" className="container">        
         <div className="header">
-            <h1 className="title">Observando</h1>
+            <h1 className="title">Muro interactivo</h1>
             <div className="Options">
                 <h1 className="NameUser" id="NameUser">.</h1>
             <button type="button" id="ExitOption" className="btn-Options button"><span className="icon-exit"></span> Salir</button>
@@ -24,7 +24,7 @@ function SectionApp(){
             <div id = "Get-Area" className="Get-Area">
                 <div id="IntroGetSection" className="Get-Messager-Section">
                 <div id="PhoneGet" className="Get-Messager-Phone">CO</div>
-                <p className="Get-Messager-Text"><h3 className="Get-Messager-Name">Observando_Oficial</h3>Hola a todos y todas!, sean bienvenidos a su foro interactivo <strong>Contillando</strong>,aqui podran interractuar con sus demás compañeros, compartir ideas e opiniones sobre cualquier tema que gusten. </p>
+                <p className="Get-Messager-Text"><h3 className="Get-Messager-Name">Muro_interactivo_Oficial</h3>Hola a todos y todas!, sean bienvenidos a su foro interactivo <strong>Muro interactivo</strong>,aqui podran interractuar con sus demás compañeros, compartir ideas e opiniones sobre cualquier tema que gusten. </p>
                 </div>
             </div>
         </div>
